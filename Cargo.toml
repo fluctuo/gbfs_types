@@ -23,7 +23,7 @@ url = "2.5"
 url_serde = "0.2"
 
 [dependencies.geo-types]
-version = "0.7"
+version = "0.7.13"
 features = ["serde"]
 
 [dependencies.serde]
