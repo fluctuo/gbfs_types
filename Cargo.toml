@@ -45,6 +45,6 @@ version = "2.15"
 optional = true
 
 [dependencies.pyo3]
-version = "0.20"
+version = "0.21"
 features = ["serde"]
 optional = true
