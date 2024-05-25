@@ -27,7 +27,7 @@ version = "0.7"
 features = ["serde"]
 
 [dependencies.serde]
-version = "1.0"
+version = "1.0.200"
 features = ["derive"]
 
 [dependencies.reqwest]
