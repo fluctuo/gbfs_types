@@ -1,3 +1,8 @@
+# Project moved!
+
+New home: https://github.com/MobilityData/gbfs-json-schema/tree/master/models/rust
+
+# Archive
 
 [GBFS](https://gbfs.org/) types in Rust.
 
